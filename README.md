@@ -1,0 +1,2 @@
+# Investment-fund-manager-PRIVATE-
+Managing shared investment fund on Telegram, possessed by authorized users.
